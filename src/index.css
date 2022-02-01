@@ -35,6 +35,9 @@ header {
 	
 }
 
+
+
+
 h1 {
 	
 	margin-left: 43%;
@@ -174,10 +177,11 @@ h1 {
 }
 
 .income-list .income-item .desc {
-	flex: 1 1 100%;
+	flex: 1 1 60%;
 }
 
 .income-list .income-item .price,
+.income-list .income-item .exPrice,
 .income-list .income-item .date {
 	min-width: 125px;
 }
